@@ -1,0 +1,26 @@
+{
+    "categories":[
+    {
+      "id": 123,
+      "categoryname": "Business"
+    },
+    {
+        "id": 124,
+        "categoryname": "Heath"
+      },
+
+      {
+        "id": 125,
+        "categoryname": "Marketing"
+      },
+      {
+        "id": 126,
+        "categoryname": "Programming"
+      },
+      {
+        "id": 127,
+        "categoryname": "Technology"
+      }
+    
+  ]
+}
